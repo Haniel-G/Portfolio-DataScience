@@ -8,7 +8,9 @@
 
 Hello! My name is *Lucas Haniel Gomes e Gomes*. I have a degree in Physics Education from UEPA (2022) and I am currently pursuing a degree in Data Science at UniAmérica. Additionally, I am passionate about data analysis (BI, social, economic, and public security).  
 
-### **Welcome to my portfolio!**  
+<h3 align="center">
+  <em><strong>Welcome to my portfolio!</strong></em>
+</h3> 
 
 ## **Projects**  
 
