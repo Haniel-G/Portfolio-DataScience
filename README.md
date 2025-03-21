@@ -14,7 +14,7 @@ Hello! My name is *Lucas Haniel Gomes e Gomes*. I have a degree in Physics Educa
 
 ## **Projects**  
 
-### **FINANCIAL ANALYSIS (Series01-DA_Financial)**  
+## **FINANCIAL ANALYSIS (Series01-DA_Financial)**  
 This project performs an Exploratory Data Analysis applied to a financial dataset. The goal is to identify patterns, relationships, and insights that can assist in decision-making in financial contexts such as risk management, fraud detection, and financial behavior prediction.  
 
 #### **Analysis Objectives:**  
@@ -34,9 +34,7 @@ This project performs an Exploratory Data Analysis applied to a financial datase
 
 [Click here to access the project.](https://github.com/Haniel-G/Series01-DA_Financial)  
 
----
-
-### **EDA UTILIS**  
+## **EDA UTILIS**  
 The "EDA Utilis" project is a reusable and scalable Python module designed to simplify the Exploratory Data Analysis (EDA) process across various domains. This toolkit facilitates tasks such as data loading, cleaning, visualization, and statistical analysis, making the initial phases of any data science project more efficient and structured.  
 
 #### **Features:**  
@@ -54,12 +52,8 @@ The "EDA Utilis" project is a reusable and scalable Python module designed to si
 
 [Click here to access the project.](https://github.com/Haniel-G/EDA_Utilis)  
 
----
-
 ## **IN DEVELOPMENT**  
 Currently, I am delving deeper into modeling and Docker.  
-
----
 
 ## **CONTACTS**  
 - [LinkedIn](https://www.linkedin.com/in/hanielgomes/)  
