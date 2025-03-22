@@ -58,4 +58,6 @@ Currently, I am delving deeper into modeling and Docker.
 ## **CONTACTS**  
 - [LinkedIn](https://www.linkedin.com/in/hanielgomes/)  
 - [GitHub](https://github.com/Haniel-G)  
-- [Email](fis.haniel@hotmail.com)  
+- [Email](fis.haniel@hotmail.com)
+---
+[Click here to go to the portfolio (PT)](https://github.com/Haniel-G/Portfolio-Ciencia-de-Dados/blob/main/README.md)
