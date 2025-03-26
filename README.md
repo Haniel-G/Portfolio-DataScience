@@ -53,7 +53,7 @@ The "EDA Utilis" project is a reusable and scalable Python module designed to si
 [Click here to access the project.](https://github.com/Haniel-G/EDA_Utilis)  
 
 ## **IN DEVELOPMENT**  
-Currently, I am delving deeper into modeling with ML.  
+I'm currently delving deeper into machine learning, Docker, and building on other skills I already have.
 
 ## **CONTACTS**  
 - [LinkedIn](https://www.linkedin.com/in/hanielgomes/)  
